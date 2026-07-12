@@ -5,11 +5,11 @@
 📧 **Email:** chandra04g@gmail.com
 
 * 🎓 **Currently Studying:** BCA (2nd Year) | Expected Graduation: 2028
-* 🚀 **Currently Working On:** Personal Coding & Development Projects
+* 🚀 **Currently Working On:** Personal Coding & Projects [ Hackings | Pythons | MySQL | Websites]
 * 🌱 **Currently Learning:** Python, DBMS, AI & ML, DevOps, and Cybersecurity
-* 🤝 **Looking to Collaborate On:** Open Source Projects, Web Development, and AI/ML Projects
+* 🤝 **Looking to Collaborate On:** Open Source Projects, Web Development, and AI/ML, Ethical Hacking Projects
 * 🆘 **Looking for Help With:** Advanced AI/ML, DevOps, and Real-World Project Development
-* 💬 **Ask Me About:** C, Data Structures in C, Java, Operating Systems, HTML, CSS, JavaScript, Python, DBMS, AI/ML, Cybersecurity, GUI & CLI Applications
+* 💬 **Ask Me About:** C, Java, Operating Systems [window | Linux], HTML, CSS, JavaScript, Python, DBMS, AI/ML, Cybersecurity, GUI & CLI Applications
 * 📬 **How to Reach Me:** chandra04g@gmail.com
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun Fact:** I Love Technology, and Technology Loves Me!
@@ -17,18 +17,18 @@
 ## 🛠️ Skills
 
 * 💻 C Programming
-* 📚 Data Structures in C
+* 📚 Data Structures in C | Python | Java 
 * ☕ Java
-* 🖥️ Operating Systems
-* 🌐 HTML
-* 🎨 CSS
+* 🖥️ Operating Systems [widowns | Linux ]
+* 🌐 HTML | 🎨 CSS
 * ⚡ JavaScript
 * 🐍 Python
 * 🗄️ Database Management Systems (DBMS)
-* 🤖 Artificial Intelligence & Machine Learning
-* 🔐 Cybersecurity Fundamentals
-* 🖱️ GUI & CLI Application Development
+* 🤖 Artificial Intelligence & Machine Learning (AI & ML)
 * 🔧 Git & GitHub
+* 🔐 Cybersecurity Fundamentals
+* 🛡️ Ethical Hacking
+* 🌐 Networking
 
 
 # 💻 Tech Stack:
