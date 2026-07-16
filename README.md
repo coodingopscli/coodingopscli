@@ -1,6 +1,6 @@
 # 👋 Hello ,  I'm Gaurav Chandra
 
-**💻 Coding Enthusiast | 🤖 AI & ML Learner | 🎓 BCA Student from India 🇮🇳**
+**💻 Coding Enthusiast | 🤖 AI & ML Learner | 🎓 BCA Student - My Currently Pursuing
 
 📧 **Email:** chandra04g@gmail.com
 
@@ -12,7 +12,6 @@
 * 💬 **Ask Me About:** C, Java, Operating Systems [window | Linux], HTML, CSS, JavaScript, Python, DBMS, AI/ML, Cybersecurity, GUI & CLI Applications
 * 📬 **How to Reach Me:** chandra04g@gmail.com
 * 😄 **Pronouns:** He/Him
-* ⚡ **Fun Fact:** I Love Technology, and Technology Loves Me!
 
 ## 🛠️ Skills
 
@@ -26,9 +25,10 @@
 * 🗄️ Database Management Systems (DBMS)
 * 🤖 Artificial Intelligence & Machine Learning (AI & ML)
 * 🔧 Git & GitHub
-* 🔐 Cybersecurity Fundamentals
+* 🔐 CyberSecurity Fundamentals
 * 🛡️ Ethical Hacking
 * 🌐 Networking
+* 🖥️ Operating Systems [ 🪟 Windows | 🐧 Linux ]
 
 
 # 💻 Tech Stack:
@@ -41,7 +41,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
