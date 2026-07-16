@@ -1,5 +1,4 @@
-# 👋 Hello , 
-I'm Gaurav Chandra
+# 👋 Hello ,  I'm Gaurav Chandra
 
 **💻 Coding Enthusiast | 🤖 AI & ML Learner | 🎓 BCA Student from India 🇮🇳**
 
