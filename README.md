@@ -5,7 +5,7 @@
 📧 **Email:** chandra04g@gmail.com
 
 * 🎓 **Currently Studying:** BCA (2nd Year) | Expected Graduation: 2028
-* 🚀 **Currently Working On:** Personal Coding & Projects [ Hackings | Pythons | MySQL | Websites ]
+* 🚀 **Currently Working On:** Personal Coding & Projects [ Hackings | Pythons | MySQL | Web Development ]
 * 🌱 **Currently Learning:** Python, DBMS, AI & ML, DevOps, and Cyber Security
 * 🤝 **Looking to Collaborate On:** Open Source Projects, Web Development, and AI/ML, Ethical Hacking Projects
 * 🆘 **Looking for Help With:** Advanced AI/ML, DevOps, and Real-World Project Development
